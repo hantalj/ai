@@ -1,1 +1,1 @@
-My journey in machine learning in Python
+My journey in machine learning with Python
